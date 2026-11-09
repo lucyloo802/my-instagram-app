@@ -1,0 +1,6 @@
+{
+  "name": "PantryWhip - Instant Zero-Waste Recipes",
+  "description": "Tell us what ingredients you have, and whip up delicious, quick recipes using strictly what's on hand with step-by-step cooking timers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
